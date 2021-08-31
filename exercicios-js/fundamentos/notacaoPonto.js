@@ -1,7 +1,7 @@
-// Anotação "." serve para dexar visivel a leitura de objetos e função instânciadas. 
+// Anotação "." serve para deixar visivel a leitura de objetos e função instânciadas. 
 
 console.log(typeof console)//Ex. object
-console.log(Math.ceil(6.1))//Ex. opera o arredondamento para cima  "7"
+console.log(Math.ceil(6.1))//Ex. opera o arredondamento para cima "7"
 
 
 

@@ -33,7 +33,7 @@ console.log(produto) //Ex. { preco: 3.59 }
 
 
 
-produto.preco = undefined //evie atribuir undefined
+produto.preco = undefined //evite atribuir undefined
 
 console.log(!!produto.preco) //Ex. False
 

@@ -10,7 +10,7 @@ console.log(typeof qualquer)
 // Evitar nome genérico e siglas 
 let valor = ""
 let numero = 5
-let pqp = false // Produto Químico Perigiso .. kk 
+let pqp = false // Produto Químico Perigoso .. kk 
 
 console.log(valor)
 console.log(typeof valor)

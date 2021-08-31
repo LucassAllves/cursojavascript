@@ -1,4 +1,4 @@
-// funcao é um trecho e código ou como se fosse uma receita(bloco de código nomeado) como o algoritimo ele recebe
+// funcao é um trecho de código ou como se fosse uma receita(bloco de código nomeado) como o algoritimo ele recebe
 //dados e outras que não retornam nada 
 
 //Funcao sem retorno

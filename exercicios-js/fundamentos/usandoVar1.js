@@ -20,7 +20,7 @@
 
 function teste() {
     var local = 123
-    console.log(local) // Ex. 123 //está dentro fa function mesmo sendo var não irá ler fora dela 
+    console.log(local) // Ex. 123 //está dentro da function mesmo sendo var não irá ler fora dela 
 }
 teste()
 console.log(local)//Ex.  local is not defined // porque tentamos imprimir fora da function o var 

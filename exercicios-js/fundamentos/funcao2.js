@@ -1,4 +1,4 @@
-// Armazenado uma função dentro da varável 
+// Armazenado uma função dentro da variavel 
 const imprimirSoma = function (a, b) {
     console.log(a + b)
 } 

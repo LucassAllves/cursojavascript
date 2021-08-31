@@ -7,7 +7,7 @@ console.log(valores[4])
 
 
 
-//adicioanar elementos no array
+//adicionar elementos no array
 
 valores[4] = 10
 
@@ -27,7 +27,7 @@ console.log(valores.length)
 
 
 
-//push = empurre, Pega todos os elementos do array. Po´ren não é bom misturar dados !
+//push = empurre, Pega todos os elementos do array. Porém não é bom misturar dados !
 
 valores.push({id: 3}, false, null, 'teste')
 

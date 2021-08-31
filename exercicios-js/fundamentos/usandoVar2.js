@@ -1,4 +1,4 @@
-//Var fora do bloco de function não respita outro bloco 
+//Var fora do bloco de function não repita outro bloco 
 // Sendo assim lida globalmente
 
 var numero = 1

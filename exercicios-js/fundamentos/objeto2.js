@@ -1,4 +1,4 @@
-//Exemplos de como instânciar algumas fução !
+//Exemplos de como instânciar algumas funções !
 
 console.log(typeof Object)//Ex. function 
 console.log(typeof new Object)//Ex. object
